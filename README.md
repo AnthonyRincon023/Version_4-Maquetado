@@ -1,8 +1,8 @@
 # Version_4-Maquetado
 
-maqueta 1
+maqueta 1 ![ejercicio1](https://user-images.githubusercontent.com/110691915/185778193-f2571461-3d55-4052-9bd8-64c91980bef0.jpg)
 
-![image](https://user-images.githubusercontent.com/110691915/185778072-97703c1a-48a8-48aa-ac36-4145b82dad78.png)
+
 
 - Se realizo un maquetado de 15 ejercicios de html 
 - Nuevas etiquetas (main, header, footer, nav)
