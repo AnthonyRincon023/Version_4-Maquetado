@@ -1,3 +1,24 @@
+# Informacion
+
+ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA
+
+FICHA: 2558346
+
+PROGRAMA: Analisis y Desarrollo de Software - ADSO
+
+AUTOR: Anthony Rincon
+
+OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
+
+FECHA DE CREACION: Agosto 08 2022
+
+VERSIONES: 4.0.0 
+
+FECHA MODIFICACION: Agosto 19 2022
+
+
+
+
 # Version_4-Maquetado
 
 Maqueta 1                                                                                                          
