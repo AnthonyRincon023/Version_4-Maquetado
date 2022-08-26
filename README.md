@@ -96,3 +96,10 @@ Maqueta 15
 - Se agrego la respectiva imagen de la w3C
 - Se agrego el derechos de copyright
 - Colores de acuerdo al circulo cromatico
+
+
+Boostrat
+- Se insertaron imagenes en los 3 ultimos ejercicios 
+- En cada uno de los ejercicios se agregaron diferentes tamaños segun el ejercicios establecido
+- Se adapto a diferentes resoluciones
+- Css para darle stylo a las maquetas 
