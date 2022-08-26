@@ -1,0 +1,45 @@
+#header{
+   background-color: green;
+   border: 1px solid;    
+}
+#rojo{
+    background-color: red;
+    border: 1px solid;
+}
+@media (max-width:768){
+    #rojo{
+        height: 750px;
+    }
+}
+@media (max-width:576px){
+    #rojo{
+        display: none;
+    }
+}
+#item1{
+    background-color: orange;
+    border: 1px solid;
+}
+#footer{
+    background-color: aquamarine;
+    border: 1px solid;
+
+}
+#col2{
+    background-color: pink;
+    border: 1px solid;
+}
+#rosa{
+    background-color: palevioletred;
+    border: 1px solid;
+}
+#azul{
+    background-color: blue;
+    border: 1px solid;
+    text-align: center;
+}
+#foo{
+    background-color: greenyellow;
+    border: 1px solid;
+    
+}

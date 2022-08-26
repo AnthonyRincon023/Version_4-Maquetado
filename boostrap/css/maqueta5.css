@@ -1,0 +1,23 @@
+#col1{
+    padding: 6px;
+    height: 400px;
+    width: 908px;
+    
+}
+#col2{
+    width: 400px;
+    height: 200px;
+    padding: 6px;
+}
+#col3{
+    padding: 6px;
+    width: 390px;
+    height: 170px;
+    text-align: center;
+    font-size: 16px;
+    
+}
+#foo{
+    padding: 15px;
+   
+}
