@@ -98,7 +98,7 @@ Maqueta 15
 - Colores de acuerdo al circulo cromatico
 
 
-Boostrat
+Boostrap
 - Se insertaron imagenes en los 3 ultimos ejercicios 
 - En cada uno de los ejercicios se agregaron diferentes tamaños segun el ejercicios establecido
 - Se adapto a diferentes resoluciones
