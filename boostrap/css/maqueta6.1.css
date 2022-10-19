@@ -1,0 +1,118 @@
+.container {
+    position: relative;
+    max-width: 1000px;
+    top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#col1 {
+    height: 550px;
+}
+
+#col2 {
+    height: 550px;
+}
+
+#arriba {
+    margin-top: 10px;
+    height: 300px;
+    width: 850px;
+}
+
+#arriba {
+    margin-top: 10px;;
+    height: 300px;
+    width: 400px;
+}
+
+#arriba {
+    margin-top: 10px;
+    height: 300px;
+    width: 850px;
+}
+
+#arriba1 {
+    margin-top: 10px;
+    height: 500px;
+    width: 850px;
+}
+
+#arriba2 {
+    margin-top: 10px;
+    height: 500px;
+    width: 850px;
+}
+#caja {
+    
+    border: 2px solid;
+}
+
+#titulo h1 {
+    position: relative;
+    text-align: center;
+}
+#caja3 {
+    position: relative;
+    top: 60px;
+}
+#caja4 {
+    position: relative;
+    top: 60px;
+    
+
+}
+#caja5 {
+    position: relative;
+    top: 60px;
+
+}
+#caja6 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja7 {
+    position: relative;
+    bottom: 20px;
+
+    
+}
+#caja8 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja9 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja10 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#estrella1{
+    color: yellow;
+}
+#estrella2{
+    color: yellow;
+}
+#estrella3{
+color: yellow;
+}
+#estrella4{
+    color: yellow;
+}
+#estrella5{
+    color: yellow;
+}
+#aja1{
+    text-align: center;
+}
+#aja2{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
